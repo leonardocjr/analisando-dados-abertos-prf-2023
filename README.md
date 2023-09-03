@@ -1,4 +1,6 @@
-# Objetivos e tipos de análises
+# Analisando dados abertos da PRF de 2023
+
+## Objetivos e tipos de análise
 
 O objetivo desse estudo é analisar os dados abertos publicados pela PRF em 2023, analisar como as bases são construídas, entender as estrutura dos dados e compreender como os dados podem ser explorados e analisados em diversos contextos. A seguir citarei alguns tipos das análises alvo deste estudo e exemplos.
 
